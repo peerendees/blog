@@ -1,8 +1,5 @@
 {
   "cleanUrls": true,
-  "rewrites": [
-    { "source": "/:slug", "destination": "/posts/:slug.html" }
-  ],
   "headers": [
     {
       "source": "/assets/fonts/(.*)",
