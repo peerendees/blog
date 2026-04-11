@@ -1,10 +1,110 @@
 [
   {
+    "slug": "relaunch-leitfaden",
+    "title": "Wie bekomme ich meine alte Website aktualisiert, ohne ein Vermögen auszugeben?",
+    "date": "2026-03-24",
+    "teaser": "",
+    "tags": ["KI-Werkzeuge", "Webentwicklung"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "launch-lotse",
+    "title": "Möglicherweise werde ich den einen oder anderen auf die Bühne zerren.",
+    "date": "2026-03-25",
+    "teaser": "",
+    "tags": ["KI-Werkzeuge", "Webentwicklung"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "startrampe",
+    "title": "Vier Angaben. Sechs Schritte. Eine fertige Webseite.",
+    "date": "2026-03-26",
+    "teaser": "",
+    "tags": ["KI-Werkzeuge", "Webentwicklung"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "textschmiede",
+    "title": "Was 99 % der Menschen nie tun werden, habe ich bereits hinter mir.",
+    "date": "2026-03-27",
+    "teaser": "",
+    "tags": ["KI-Werkzeuge", "Textschmiede"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "eigene-werkzeuge",
+    "title": "90 % aller KI-Tools lösen Probleme, die niemand hat.",
+    "date": "2026-03-28",
+    "teaser": "",
+    "tags": ["KI-Werkzeuge", "BelegChat"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "ki-marketing-workshop",
+    "title": "Du fällst auf, weil du immer da bist.",
+    "date": "2026-03-29",
+    "teaser": "",
+    "tags": ["KI-Marketing", "Kongruenz"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "erreichbarkeitsluecke",
+    "title": "Je mehr Du verkaufst, desto schlechter wird Dein Kundenservice.",
+    "date": "2026-03-31",
+    "teaser": "",
+    "tags": ["VAaaS", "Erreichbarkeit"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "loesung-vaaas",
+    "title": "Karsamstag, 12:03 Uhr. Ein Kunde ruft an.",
+    "date": "2026-04-03",
+    "teaser": "",
+    "tags": ["VAaaS", "KI-Telefonie"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "markt-positionierung",
+    "title": "17:02 Uhr. Freitagnachmittag. Die Praxissoftware einer Arztpraxis fällt aus.",
+    "date": "2026-04-04",
+    "teaser": "",
+    "tags": ["VAaaS", "Erreichbarkeit"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "auto-und-vaaas",
+    "title": "Ich habe gerade mein Auto abgegeben.",
+    "date": "2026-04-05",
+    "teaser": "",
+    "tags": ["VAaaS", "Nutzung statt Vorhaltung"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
+    "slug": "kundentypen-ki-einfuehrung",
+    "title": "Ich will einen Mitarbeiter sprechen. – Gut so.",
+    "date": "2026-04-08",
+    "teaser": "",
+    "tags": ["VAaaS", "Change Management"],
+    "linkedinUrl": "",
+    "status": "draft"
+  },
+  {
     "slug": "ambient-ai-hedy",
     "title": "KI, die im Hintergrund für dich arbeitet...",
     "date": "2026-04-11",
-    "teaser": "Ambient AI – ein Konzept, das meine Sicht auf KI-Implementierung nachhaltig verändert hat. Was Julian Pscheid von Hedy AI auf dem KI-Summit Germany beschrieben hat.",
+    "teaser": "Ambient AI – ein Konzept, das meine Sicht auf KI-Implementierung nachhaltig verändert hat.",
     "tags": ["Hedy", "Ambient AI"],
-    "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:activity:7448642198016806912"
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7448642198016806912",
+    "status": "published"
   }
 ]
