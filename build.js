@@ -33,7 +33,7 @@ function renderPostCard(post) {
   const tags = post.tags.map(t => `<span class="tag">${t}</span>`).join(' ');
   return `
         <li>
-          <a href="/${post.slug}" class="post-card">
+          <a href="/posts/${post.slug}" class="post-card">
             <div class="post-card-header">
               <div class="plus-mark"></div>
               <div>
@@ -141,7 +141,7 @@ ${cards}
 function generateSitemap(posts) {
   const latestDate = posts[0].date;
   const postEntries = posts.map(p => `  <url>
-    <loc>https://blog.berent.ai/${p.slug}</loc>
+    <loc>https://blog.berent.ai/posts/${p.slug}</loc>
     <lastmod>${p.date}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -177,11 +177,14 @@ function build() {
   fs.writeFileSync(path.join(DIST, 'sitemap.xml'), generateSitemap(published));
   console.log('   ✅ dist/sitemap.xml');
 
-  const htmlFiles = fs.readdirSync(ROOT).filter(f => f.endsWith('.html') && f !== 'index.html');
+  const postsDir = path.join(ROOT, 'posts');
+  const distPosts = path.join(DIST, 'posts');
+  fs.mkdirSync(distPosts, { recursive: true });
+  const htmlFiles = fs.readdirSync(postsDir).filter(f => f.endsWith('.html'));
   for (const f of htmlFiles) {
-    fs.copyFileSync(path.join(ROOT, f), path.join(DIST, f));
+    fs.copyFileSync(path.join(postsDir, f), path.join(distPosts, f));
   }
-  console.log(`   ✅ ${htmlFiles.length} Post-HTML(s) kopiert`);
+  console.log(`   ✅ ${htmlFiles.length} Post-HTML(s) nach dist/posts/ kopiert`);
 
   copyDir(path.join(ROOT, 'css'), path.join(DIST, 'css'));
   copyDir(path.join(ROOT, 'assets'), path.join(DIST, 'assets'));
