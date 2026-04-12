@@ -447,6 +447,51 @@
     "status": "published"
   },
   {
+    "slug": "formuliere-besser-llm",
+    "title": "Ich formuliere besser als jedes LLM!",
+    "date": "2025-02-20",
+    "teaser": "Vier LLM im Vergleich beim LinkedIn-Slogan — ChatGPT, Claude, Gemini und Le Chat im Test.",
+    "tags": [
+      "KI-Werkzeuge",
+      "LLM",
+      "Vergleich",
+      "AI Training Institute"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_ich-formuliere-besser-als-jedes-llm-activity-7298372631102197762-Uh7Z",
+    "status": "published"
+  },
+  {
+    "slug": "kalte-fuesse-ki",
+    "title": "Beim Gedanken an KI bekomme ich kalte Füße.",
+    "date": "2025-02-19",
+    "teaser": "Sicherheit, Datenschutz und Ethik — zwei schlichte Gedanken zu berechtigten KI-Bedenken.",
+    "tags": [
+      "KI",
+      "Datenschutz",
+      "Ethik",
+      "Bedenken"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_beim-gedanken-an-ki-bekomme-ich-kalte-activity-7297911065047175169-acZs",
+    "status": "published"
+  },
+  {
+    "slug": "sieben-weshalb-ki",
+    "title": "Sieben Weshalb — Künstliche Intelligenz am Gymnasium",
+    "date": "2025-02-16",
+    "teaser": "Ein motivierender Impulsvortrag zum Einsatz von KI am Gymnasium — entstanden in der AI-Trainer-Ausbildung.",
+    "tags": [
+      "Bildung",
+      "KI",
+      "Gymnasium",
+      "AI Training Institute"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_sieben-weshalb-k%C3%BCnstliche-intelligenz-activity-7297010015503048704-Xk1d",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
