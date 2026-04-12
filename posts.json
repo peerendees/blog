@@ -283,6 +283,36 @@
     "status": "published"
   },
   {
+    "slug": "glorreiche-sieben",
+    "title": "Die glorreichen Sieben",
+    "date": "2025-05-03",
+    "teaser": "Sieben aus 88 — wie eine Peer-Group die KI-Trainerausbildung am AI Training Institute geprägt hat.",
+    "tags": [
+      "KI-Ausbildung",
+      "AI Training Institute",
+      "Peer-Group",
+      "Persönlich"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_ki-training-lernenmitki-activity-7324457894542733313-BGVq",
+    "status": "published"
+  },
+  {
+    "slug": "lehrer-ki-keynote",
+    "title": "Ich bin Lehrer geworden, um Menschen zu begleiten. Nicht, um mich durch E-Mails und Excel-Tabellen zu kämpfen.",
+    "date": "2025-04-15",
+    "teaser": "Weshalb KI im Schulalltag entlasten kann — und Raum für das Wesentliche schafft.",
+    "tags": [
+      "Bildung",
+      "KI",
+      "Keynote",
+      "Schulalltag"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_ich-bin-lehrer-geworden-um-menschen-activity-7317808149170683905-xzXG",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
