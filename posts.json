@@ -39,5 +39,19 @@
     ],
     "linkedinUrl": "",
     "status": "published"
+  },
+  {
+    "slug": "auto-vaaas-vorhaltung",
+    "title": "Ich habe gerade mein Auto abgegeben.",
+    "date": "2026-04-05",
+    "teaser": "Warum Vorhaltung im Kundenservice dem Auto-Prinzip gleicht — und was VAaaS anders macht.",
+    "tags": [
+      "VAaaS",
+      "Kundenservice",
+      "Fixkosten",
+      "Mobilität"
+    ],
+    "linkedinUrl": "",
+    "status": "published"
   }
 ]
