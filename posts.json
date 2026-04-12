@@ -67,5 +67,33 @@
     ],
     "linkedinUrl": "https://www.linkedin.com/posts/berentai_1702-uhr-freitagnachmittag-die-praxissoftware-activity-7446093485687889920-Ni7r",
     "status": "published"
+  },
+  {
+    "slug": "loesung-vaaas",
+    "title": "Karsamstag, 12:03 Uhr. Ein Kunde ruft an. Was er nicht weiß:",
+    "date": "2026-04-03",
+    "teaser": "Was passiert, wenn ein Kunde außerhalb der Geschäftszeiten anruft — und trotzdem eine Antwort bekommt.",
+    "tags": [
+      "VAaaS",
+      "KI-Telefonie",
+      "E-Commerce",
+      "Kundenservice"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_karsamstag-1203-uhr-ein-kunde-ruft-an-activity-7445718483172204544-aOSD",
+    "status": "published"
+  },
+  {
+    "slug": "erreichbarkeitsluecke",
+    "title": "Je mehr Du verkaufst, desto schlechter wird Dein Kundenservice.",
+    "date": "2026-03-31",
+    "teaser": "Die Erreichbarkeitslücke im E-Commerce — unsichtbar, lautlos, kostspielig.",
+    "tags": [
+      "VAaaS",
+      "E-Commerce",
+      "Kundenservice",
+      "Erreichbarkeit"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_je-mehr-du-verkaufst-desto-schlechter-wird-activity-7444635214150033410-ChOI",
+    "status": "published"
   }
 ]
