@@ -313,6 +313,51 @@
     "status": "published"
   },
   {
+    "slug": "hack-des-tages-notion",
+    "title": "Hack des Tages — Inside Notion",
+    "date": "2025-04-13",
+    "teaser": "ChatGPT-Gliederung direkt als Notion-Vorlage nutzen — ein einfacher Workflow-Trick.",
+    "tags": [
+      "Notion",
+      "ChatGPT",
+      "Produktivität",
+      "Hack"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_hack-des-tages-inside-notion-wusstest-activity-7317121122137735168-hgos",
+    "status": "published"
+  },
+  {
+    "slug": "terminplanung-excel",
+    "title": "Terminplanung per Excel ist wie Reiten zur Arbeit.",
+    "date": "2025-04-11",
+    "teaser": "Weshalb manuelle Terminverwaltung 2025 zum Risikofaktor wird — und wie KI-Automatisierung hilft.",
+    "tags": [
+      "KI",
+      "Automatisierung",
+      "Terminplanung",
+      "Mittelstand"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_terminplanung-per-excel-ist-wie-reiten-zur-activity-7316340985897091073-4sTs",
+    "status": "published"
+  },
+  {
+    "slug": "notion-trainer4trainer",
+    "title": "„Notion? Das ist doch viel zu kompliziert für mich!\"",
+    "date": "2025-03-31",
+    "teaser": "Inside Notion — eine Workshop-Vorlage für Trainer und Unternehmer, von Grund auf erklärt.",
+    "tags": [
+      "Notion",
+      "Produktivität",
+      "AI Training Institute",
+      "Workshop"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_notion-das-ist-doch-viel-zu-kompliziert-activity-7312471233252536320-cZ5P",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
