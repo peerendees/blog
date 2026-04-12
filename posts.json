@@ -402,6 +402,51 @@
     "status": "published"
   },
   {
+    "slug": "lehrer-feedback-ki",
+    "title": "Die meisten Lehrer verbringen 80 % ihrer Feedback-Zeit damit, dieselben Kommentare immer wieder zu schreiben.",
+    "date": "2025-03-06",
+    "teaser": "Wie KI personalisiertes Schüler-Feedback in der Hälfte der Zeit ermöglicht.",
+    "tags": [
+      "Bildung",
+      "KI",
+      "Feedback",
+      "Produktivität"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_die-meisten-lehrer-verbringen-800-ihrer-activity-7303308494957428737-zxbB",
+    "status": "published"
+  },
+  {
+    "slug": "aktives-zuhoeren",
+    "title": "Die meisten Pädagogen denken, aktives Zuhören bedeutet, darauf zu warten, bis sie an der Reihe sind zu sprechen.",
+    "date": "2025-03-03",
+    "teaser": "Echtes aktives Zuhören verändert die gesamte Lernerfahrung — drei Prinzipien für Pädagogen.",
+    "tags": [
+      "Bildung",
+      "Pädagogik",
+      "Aktives Zuhören",
+      "Kommunikation"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_die-meisten-p%C3%A4dagogen-denken-aktives-activity-7302361604300402688-NxGJ",
+    "status": "published"
+  },
+  {
+    "slug": "ai-visual-tools",
+    "title": "Und jetzt soll ich auch noch Grafik machen?",
+    "date": "2025-02-27",
+    "teaser": "Erfahrungen mit Dzine.ai und Ideogram.ai — AI Visual Tools für Nicht-Grafiker.",
+    "tags": [
+      "KI-Werkzeuge",
+      "Grafik",
+      "Ideogram",
+      "Produktivität"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_und-jetzt-soll-ich-auch-noch-grafik-machen-activity-7300962575217758208-MYiJ",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
