@@ -223,6 +223,21 @@
     "status": "published"
   },
   {
+    "slug": "claude-projekte",
+    "title": "Weshalb gibt Claude mir völlig andere Antworten als erwartet?",
+    "date": "2025-08-15",
+    "teaser": "90 % der Benutzer unterschätzen diese eine Funktion — Claude Projekte als Game-Changer für KI-Produktivität.",
+    "tags": [
+      "Claude",
+      "KI-Produktivität",
+      "Prompting",
+      "Werkzeuge"
+    ],
+    "pdfUrl": "/assets/pdf/claude-projekte.pdf",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_claude-projekte-activity-7362034568293498880-3bzg",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
