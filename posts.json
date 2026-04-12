@@ -95,5 +95,89 @@
     ],
     "linkedinUrl": "https://www.linkedin.com/posts/berentai_je-mehr-du-verkaufst-desto-schlechter-wird-activity-7444635214150033410-ChOI",
     "status": "published"
+  },
+  {
+    "slug": "ausblick-eigene-werkzeuge",
+    "title": "90 % aller KI-Tools lösen Probleme, die niemand hat. Und alle wollen skalieren.",
+    "date": "2026-03-27",
+    "teaser": "Von Werkzeugen für andere zu Werkzeugen für sich selbst — BERENT AI Mail und BelegChat als interne Projekte.",
+    "tags": [
+      "KI-Werkzeuge",
+      "BERENT AI Mail",
+      "BelegChat",
+      "Produktentwicklung"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_90-aller-ki-tools-l%C3%B6sen-probleme-die-niemand-activity-7443221525647998977-O3Cf",
+    "status": "published"
+  },
+  {
+    "slug": "textschmiede",
+    "title": "Was 99 % der Menschen nie tun werden, habe ich bereits hinter mir.",
+    "date": "2026-03-26",
+    "teaser": "Die Textschmiede — ein Schreibwerkzeug mit Modellwahl und Notion-Integration, gebaut in der 5-Tage-Challenge.",
+    "tags": [
+      "Textschmiede",
+      "KI-Werkzeuge",
+      "Notion",
+      "Schreibwerkzeug"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_was-99-der-menschen-nie-tun-werden-habe-activity-7442834615922376705-r4Xp",
+    "status": "published"
+  },
+  {
+    "slug": "startrampe",
+    "title": "Vier Angaben. Sechs Schritte. Eine fertige Webseite.",
+    "date": "2026-03-25",
+    "teaser": "Die Startrampe generiert aus vier Angaben eine personalisierte Anleitung — vom leeren Ordner zur fertigen Subdomain.",
+    "tags": [
+      "Webentwicklung",
+      "Startrampe",
+      "Formular-App",
+      "Landingpages"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_%C3%BCber-die-startrampe-zur-neuen-landingpage-activity-7442490714497728512-VsdD",
+    "status": "published"
+  },
+  {
+    "slug": "launch-lotse",
+    "title": "„Möglicherweise werde ich den einen oder anderen auf die Bühne zerren.\"",
+    "date": "2026-03-24",
+    "teaser": "Wie aus dem Relaunch-Leitfaden ein Launch-Lotse wurde — vom Workshop auf die Bühne.",
+    "tags": [
+      "Webentwicklung",
+      "Launch-Lotse",
+      "KI Mastery",
+      "Landingpages"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_m%C3%B6glicherweise-werde-ich-den-einen-oder-activity-7442128326439358464-3uUv",
+    "status": "published"
+  },
+  {
+    "slug": "relaunch-leitfaden",
+    "title": "„Wie bekomme ich meine alte Website aktualisiert, ohne ein Vermögen auszugeben?\"",
+    "date": "2026-03-23",
+    "teaser": "Vom KI-Talk zur Schritt-für-Schritt-Anleitung — wie aus einer wiederkehrenden Frage ein Leitfaden wurde.",
+    "tags": [
+      "Webentwicklung",
+      "KI-Workflow",
+      "Leitfaden",
+      "Cursor AI"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_wie-bekomme-ich-meine-alte-website-aktualisiert-activity-7441788911380746240-axzK",
+    "status": "published"
+  },
+  {
+    "slug": "ki-marketing-workshop",
+    "title": "„Du fällst auf, weil du immer da bist.\"",
+    "date": "2026-03-22",
+    "teaser": "Kongruenz im Marketing — weshalb Sichtbarkeit wichtiger ist als der eine brillante Beitrag.",
+    "tags": [
+      "Marketing",
+      "Kongruenz",
+      "KI Mastery",
+      "Sichtbarkeit"
+    ],
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_du-f%C3%A4llst-auf-weil-du-immer-da-bist-activity-7441403550695505920-HUs4",
+    "status": "published"
   }
 ]
