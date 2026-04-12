@@ -358,6 +358,50 @@
     "status": "published"
   },
   {
+    "slug": "wolf-schneider-sprache",
+    "title": "Im Grunde kann man Wolf Schneider uneingeschränkt zustimmen.",
+    "date": "2025-03-11",
+    "teaser": "Eine sachliche Betrachtung zur deutschen Sprache — weshalb Hauptwörter geschlechtsneutral sind.",
+    "tags": [
+      "Sprache",
+      "Meinung",
+      "Persönlich"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_im-grunde-kann-man-wolf-schneider-uneingeschr%C3%A4nkt-activity-7305241098073866240-TU5k",
+    "status": "published"
+  },
+  {
+    "slug": "vibe-coding",
+    "title": "Benötigen wir bald keine Entwickler mehr?",
+    "date": "2025-03-10",
+    "teaser": "Vibe Coding — die nächste Stufe der Softwareentwicklung oder eine riskante Abkürzung? Eine Einordnung.",
+    "tags": [
+      "Vibe Coding",
+      "KI",
+      "Softwareentwicklung",
+      "Cursor"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_ben%C3%B6tigen-wir-bald-keine-entwickler-mehr-activity-7304857768933400576-jqop",
+    "status": "published"
+  },
+  {
+    "slug": "kundenservice-tools-vergleich",
+    "title": "Der ultimative Vergleich der Kundenservice-Tools",
+    "date": "2025-03-07",
+    "teaser": "Sieben KI-Kundenservice-Tools im Vergleich — von NeuroFlash bis Zendesk, mit Kosten und Funktionalität.",
+    "tags": [
+      "Kundenservice",
+      "KI-Tools",
+      "Vergleich",
+      "E-Commerce"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_der-ultimative-vergleich-der-kundenservice-tools-activity-7303840827951243265-Fpc2",
+    "status": "published"
+  },
+  {
     "slug": "start-ai-trainer",
     "title": "Am Montag, der 10. Februar 2025, beginnt ein weiterer neuer Abschnitt für mich.",
     "date": "2025-02-05",
