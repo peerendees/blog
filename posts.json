@@ -4,7 +4,12 @@
     "title": "2.400 Kilometer Training. Null Erfahrung.",
     "date": "2026-04-12",
     "teaser": "München 2007, erster Marathon — und weshalb sich der Weg in die KI-Beratung genauso anfühlt.",
-    "tags": ["Persönlich", "Marathon", "Gründung", "Durchhaltevermögen"],
+    "tags": [
+      "Persönlich",
+      "Marathon",
+      "Gründung",
+      "Durchhaltevermögen"
+    ],
     "linkedinUrl": "https://www.linkedin.com/posts/berentai_2400-kilometer-training-null-erfahrung-share-7449007901085671424-0XLJ",
     "status": "published"
   },
@@ -13,7 +18,25 @@
     "title": "KI, die im Hintergrund für dich arbeitet...",
     "date": "2026-04-11",
     "teaser": "Ambient AI als stille Unterstützung im Arbeitsalltag — ein Erfahrungsbericht mit Hedy AI und Claude.",
-    "tags": ["Hedy", "Ambient AI", "Produktivität"],
+    "tags": [
+      "Hedy",
+      "Ambient AI",
+      "Produktivität"
+    ],
+    "linkedinUrl": "",
+    "status": "published"
+  },
+  {
+    "slug": "kundentypen-ki-einfuehrung",
+    "title": "„Ich will einen Mitarbeiter sprechen.\" – Gut so.",
+    "date": "2026-04-08",
+    "teaser": "Weshalb diese Reaktion kein Scheitern ist, sondern Teil des Plans — drei Kundentypen bei der KI-Einführung.",
+    "tags": [
+      "VAaaS",
+      "Kundenservice",
+      "KI-Einführung",
+      "Kommunikation"
+    ],
     "linkedinUrl": "",
     "status": "published"
   }
