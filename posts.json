@@ -210,6 +210,21 @@
     "status": "published"
   },
   {
+    "slug": "niemand-hebt-ab",
+    "title": "Das Telefon klingelt. Der Kunde wartet. Niemand hebt ab.",
+    "date": "2025-09-03",
+    "teaser": "Wenn Serviceteams am Limit sind — weshalb die Lösung nicht in mehr Personal liegt, sondern im passenden Ansatz.",
+    "tags": [
+      "VAaaS",
+      "Kundenservice",
+      "E-Commerce",
+      "KI-Telefonie"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_das-telefon-klingelt-der-kunde-wartet-niemand-activity-7368986474060480516-vpjz",
+    "status": "published"
+  },
+  {
     "slug": "chatbot-telefon",
     "title": "„Unser Chatbot funktioniert perfekt. Können wir den nicht einfach ans Telefon setzen?\"",
     "date": "2025-08-18",
