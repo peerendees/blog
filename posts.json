@@ -225,6 +225,20 @@
     "status": "published"
   },
   {
+    "slug": "falsche-rechnungen",
+    "title": "Vorsicht, falsche Rechnungen.",
+    "date": "2025-09-01",
+    "teaser": "Gefälschte Amtsschreiben im Umlauf — weshalb Dokumentensicherheit im digitalen Zeitalter versagt.",
+    "tags": [
+      "Meinung",
+      "Sicherheit",
+      "Dokumentenfälschung"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/berentai_vorsicht-falsche-rechnungen-dieser-satz-activity-7368233413947879424-ekLb",
+    "status": "published"
+  },
+  {
     "slug": "chatbot-telefon",
     "title": "„Unser Chatbot funktioniert perfekt. Können wir den nicht einfach ans Telefon setzen?\"",
     "date": "2025-08-18",
