@@ -1,5 +1,20 @@
 [
   {
+    "slug": "kanal-orchestrierung",
+    "title": "Welcher Kanal empfängt welches Anliegen?",
+    "date": "2026-04-20",
+    "teaser": "Telefon, Chat, E-Mail — jeder Kanal hat seine eigene Physik. Die erste Frage gilt nicht der Technologie, sondern dem Anliegen.",
+    "tags": [
+      "VAaaS",
+      "Kundenservice",
+      "Kanalstrategie",
+      "KI-Telefonie"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/marcus-kunkel-berentai_welcher-kanal-empf%C3%A4ngt-welches-anliegen-share-7451922533823549440-VZ9h",
+    "status": "published"
+  },
+  {
     "slug": "voice-first-konsequenz",
     "title": "Vertrauen verliert man am Telefon in drei Sekunden.",
     "date": "2026-04-17",
