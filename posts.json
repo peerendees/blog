@@ -1,5 +1,18 @@
 [
   {
+    "slug": "leise-kunden",
+    "title": "Leise Kunden sind teurer",
+    "date": "2026-05-18",
+    "teaser": "Inzwischen weiß ich: Er produziert leise Kunden. Und das ist deutlich teurer.",
+    "tags": [
+      "Kundenservice",
+      "Kundenbindung"
+    ],
+    "pdfUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/marcus-kunkel-berentai_ich-habe-lange-gedacht-ein-schlechter-kundenservice-share-7462123830333968384-VGY1",
+    "status": "published"
+  },
+  {
     "slug": "bruchstellen-implementierung",
     "title": "Zwischen Vertrag und „es läuft\" liegt die teuerste Phase.",
     "date": "2026-05-04",
